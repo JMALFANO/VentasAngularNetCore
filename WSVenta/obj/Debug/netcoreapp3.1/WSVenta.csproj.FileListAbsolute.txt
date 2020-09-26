@@ -2,7 +2,6 @@ C:\Users\juanm\source\repos\VentasAngularNetCore\WSVenta\bin\Debug\netcoreapp3.1
 C:\Users\juanm\source\repos\VentasAngularNetCore\WSVenta\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\juanm\source\repos\VentasAngularNetCore\WSVenta\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\juanm\source\repos\VentasAngularNetCore\WSVenta\bin\Debug\netcoreapp3.1\WSVenta.exe
-C:\Users\juanm\source\repos\VentasAngularNetCore\WSVenta\obj\Debug\netcoreapp3.1\WSVenta.csprojAssemblyReference.cache
 C:\Users\juanm\source\repos\VentasAngularNetCore\WSVenta\obj\Debug\netcoreapp3.1\WSVenta.AssemblyInfoInputs.cache
 C:\Users\juanm\source\repos\VentasAngularNetCore\WSVenta\obj\Debug\netcoreapp3.1\WSVenta.AssemblyInfo.cs
 C:\Users\juanm\source\repos\VentasAngularNetCore\WSVenta\obj\Debug\netcoreapp3.1\WSVenta.RazorTargetAssemblyInfo.cache
