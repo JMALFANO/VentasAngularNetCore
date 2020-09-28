@@ -136,11 +136,14 @@ namespace WSVenta.Models
 
                 entity.Property(e => e.IdCliente).HasColumnName("id_cliente");
 
-                entity.Property(e => e.Total).HasColumnName("total");
+                entity.Property(e => e.Total)
+                    .HasColumnName("total")
+                    .HasColumnType("money");
 
                 entity.HasOne(d => d.IdClienteNavigation)
                     .WithMany(p => p.Venta)
                     .HasForeignKey(d => d.IdCliente)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("FK_venta_cliente");
             });
 

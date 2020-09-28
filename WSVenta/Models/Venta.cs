@@ -12,8 +12,8 @@ namespace WSVenta.Models
 
         public long Id { get; set; }
         public DateTime Fecha { get; set; }
-        public int? IdCliente { get; set; }
-        public int? Total { get; set; }
+        public int IdCliente { get; set; }
+        public decimal Total { get; set; }
 
         public virtual Cliente IdClienteNavigation { get; set; }
         public virtual ICollection<Concepto> Concepto { get; set; }

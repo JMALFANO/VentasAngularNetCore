@@ -14,7 +14,7 @@ import { MatButtonModule } from '@angular/material/button';//Material
 import { MatInputModule } from '@angular/material/input';//Material
 import { MatSnackBarModule } from '@angular/material/snack-bar';//Material
 import { MatCardModule } from '@angular/material/card';//Material
-import { FormsModule} from '@angular/forms';
+import { FormsModule, ReactiveFormsModule} from '@angular/forms';
 import { DialogDeleteComponent } from './common/delete/dialog.delete.component';
 import { LoginComponent } from './login/login.component';
 import { JwtInterceptor } from './security/jwt.interceptor';
@@ -40,7 +40,8 @@ import { JwtInterceptor } from './security/jwt.interceptor';
     MatSnackBarModule,//Material
     MatCardModule,
     HttpClientModule,
-    FormsModule
+    FormsModule,
+    ReactiveFormsModule
     
   ],
   providers: [

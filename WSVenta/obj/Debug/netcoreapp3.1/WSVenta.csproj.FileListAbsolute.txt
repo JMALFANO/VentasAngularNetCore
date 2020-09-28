@@ -57,6 +57,6 @@ C:\Users\juanm\source\repos\VentasAngularNetCore\WSVenta\obj\Debug\netcoreapp3.1
 C:\Users\juanm\source\repos\VentasAngularNetCore\WSVenta\obj\Debug\netcoreapp3.1\WSVenta.pdb
 C:\Users\juanm\source\repos\VentasAngularNetCore\WSVenta\obj\Debug\netcoreapp3.1\WSVenta.genruntimeconfig.cache
 C:\Users\juanm\source\repos\VentasAngularNetCore\WSVenta\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\juanm\source\repos\VentasAngularNetCore\WSVenta\obj\Debug\netcoreapp3.1\WSVenta.csprojAssemblyReference.cache
 C:\Users\juanm\source\repos\VentasAngularNetCore\WSVenta\obj\Debug\netcoreapp3.1\WSVenta.csproj.CoreCompileInputs.cache
 C:\Users\juanm\source\repos\VentasAngularNetCore\WSVenta\obj\Debug\netcoreapp3.1\WSVenta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juanm\source\repos\VentasAngularNetCore\WSVenta\obj\Debug\netcoreapp3.1\WSVenta.csprojAssemblyReference.cache
